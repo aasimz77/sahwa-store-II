@@ -30,6 +30,121 @@
             {
               "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "674885634243-89t7l33875s4cj1lrd5h1g7novt09i6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sahwa.co.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674885634243:android:497975f5fd81acb087fa76",
+        "android_client_info": {
+          "package_name": "com.sahwastore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg-6-4ZHkJpPNVhyU0S5LnO9H7fvRBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674885634243-89t7l33875s4cj1lrd5h1g7novt09i6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sahwa.co.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674885634243:android:b045f5c64baf5ebf87fa76",
+        "android_client_info": {
+          "package_name": "sahwa.co.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg-6-4ZHkJpPNVhyU0S5LnO9H7fvRBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674885634243-89t7l33875s4cj1lrd5h1g7novt09i6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sahwa.co.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674885634243:android:c776baed54eb139987fa76",
+        "android_client_info": {
+          "package_name": "web2application.a189441575323552.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg-6-4ZHkJpPNVhyU0S5LnO9H7fvRBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674885634243-89t7l33875s4cj1lrd5h1g7novt09i6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sahwa.co.store"
+              }
             }
           ]
         }
