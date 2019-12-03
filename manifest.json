@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674885634243",
+    "firebase_url": "https://sahwa-store.firebaseio.com",
+    "project_id": "sahwa-store",
+    "storage_bucket": "sahwa-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674885634243:android:c8eb58939de10c5d87fa76",
+        "android_client_info": {
+          "package_name": "com.coffye.ore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg-6-4ZHkJpPNVhyU0S5LnO9H7fvRBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674885634243-mvdho908kuhrfiktret6jgqfeq5cvpj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
